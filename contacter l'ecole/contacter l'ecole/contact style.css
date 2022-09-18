@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(33, 33, 56);
+    text-align: center;
+
+}
+form{
+    background-color: aliceblue;
+    margin: 100px;
+    margin-block-end: 30px;
+}
